@@ -35,7 +35,7 @@ include "includes/cabecalho.php";
             <div class="row">
                 <div class="col-md-4 mb-4">
                     <div class="card shadow-sm">
-                        <img src="imagens/alimentacao.jpg" class="card-img-top" alt="Alimentação Saudável">
+                        <img src="imagens/alimentacao 1.jpg" class="card-img-top" alt="Alimentação Saudável">
                         <div class="card-body">
                             <h5 class="card-title">1. Alimentação Balanceada</h5>
                             <p class="card-text">Mantenha uma dieta rica em frutas, legumes e proteínas magras. Evite alimentos processados e excesso de açúcar.</p>
@@ -46,7 +46,7 @@ include "includes/cabecalho.php";
                 <!-- Card de Dica 2 -->
                 <div class="col-md-4 mb-4">
                     <div class="card shadow-sm">
-                        <img src="imagens/exercicio.jpg" class="card-img-top" alt="Exercício Regular">
+                        <img src="imagens/exercicio 1.jpg" class="card-img-top" alt="Exercício Regular">
                         <div class="card-body">
                             <h5 class="card-title">2. Exercícios Regulares</h5>
                             <p class="card-text">A prática regular de atividades físicas, como caminhada, musculação ou natação, acelera o processo de emagrecimento.</p>
@@ -57,7 +57,7 @@ include "includes/cabecalho.php";
                 <!-- Card de Dica 3 -->
                 <div class="col-md-4 mb-4">
                     <div class="card shadow-sm">
-                        <img src="imagens/suplementacao.jpg" class="card-img-top" alt="Hidratação">
+                        <img src="imagens/suplementacao 1.jpg" class="card-img-top" alt="Hidratação">
                         <div class="card-body">
                             <h5 class="card-title">3. Suplementação </h5>
                             <p class="card-text">A hidratação é essencial para o bom funcionamento do organismo e ajuda a controlar a fome.</p>
